@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RepositoryPattern.Controllers.Data
+namespace RepositoryPattern.Data
 {
     public interface IEntity
     {
